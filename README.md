@@ -36,6 +36,8 @@ Mobile App Mockup
 Meant for a possible Fresh Fusion's mobile app concept. Lacking any kind of non-mobile style responsiveness and functionality.
 
 Initial HTML and CSS layout developped by Claude AI. Minor text, HTML, and CSS modifications by <b>Asley Robleto</b>, with very valuable help from Emily Lim.
+
+The mobile app mockup is currently being hosted on vercel. Click <a href="https://fresh-fusion-ca.vercel.app">here</a> or go to <a href="https://fresh-fusion-ca.vercel.app">https://fresh-fusion-ca.vercel.app</a> to access it.
 </p>
 
 <h2>
